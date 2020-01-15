@@ -1,0 +1,18 @@
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\bin\Debug\Bài Tập.exe.config
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\bin\Debug\Bài Tập.exe
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\bin\Debug\Bài Tập.pdb
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\obj\Debug\Bài Tập.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\obj\Debug\Bài_Tập.Form1.resources
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\obj\Debug\Bài_Tập.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\obj\Debug\Bài Tập.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\obj\Debug\Bài Tập.exe
+E:\Lập trình Winform\Bài tập\Bài Tập\Bài Tập\obj\Debug\Bài Tập.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\bin\Debug\Bài Tập.exe.config
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\bin\Debug\Bài Tập.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\bin\Debug\Bài Tập.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\obj\Debug\Bài Tập.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\obj\Debug\Bài_Tập.Form1.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\obj\Debug\Bài_Tập.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\obj\Debug\Bài Tập.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\obj\Debug\Bài Tập.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 3\Bài Tập\Bài Tập\obj\Debug\Bài Tập.pdb

@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\bin\Debug\netcoreapp3.0\Vòng lặp For.exe
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\bin\Debug\netcoreapp3.0\Vòng lặp For.deps.json
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\bin\Debug\netcoreapp3.0\Vòng lặp For.runtimeconfig.json
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\bin\Debug\netcoreapp3.0\Vòng lặp For.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\bin\Debug\netcoreapp3.0\Vòng lặp For.dll
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\bin\Debug\netcoreapp3.0\Vòng lặp For.pdb
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\obj\Debug\netcoreapp3.0\Vòng lặp For.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\obj\Debug\netcoreapp3.0\Vòng lặp For.AssemblyInfo.cs
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\obj\Debug\netcoreapp3.0\Vòng lặp For.dll
+C:\Users\USER\source\repos\Vòng lặp For\Vòng lặp For\obj\Debug\netcoreapp3.0\Vòng lặp For.pdb

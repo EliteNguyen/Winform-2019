@@ -1,0 +1,10 @@
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\bin\Debug\netcoreapp3.0\Rectangle Private.exe
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\bin\Debug\netcoreapp3.0\Rectangle Private.deps.json
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\bin\Debug\netcoreapp3.0\Rectangle Private.runtimeconfig.json
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\bin\Debug\netcoreapp3.0\Rectangle Private.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\bin\Debug\netcoreapp3.0\Rectangle Private.dll
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\bin\Debug\netcoreapp3.0\Rectangle Private.pdb
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\obj\Debug\netcoreapp3.0\Rectangle Private.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\obj\Debug\netcoreapp3.0\Rectangle Private.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\obj\Debug\netcoreapp3.0\Rectangle Private.dll
+E:\Lập trình Winform\Bài tập\Rectangle Private\Rectangle Private\obj\Debug\netcoreapp3.0\Rectangle Private.pdb

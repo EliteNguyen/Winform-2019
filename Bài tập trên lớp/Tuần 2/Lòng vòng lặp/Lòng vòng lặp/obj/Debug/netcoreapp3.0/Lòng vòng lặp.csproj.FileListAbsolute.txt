@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\bin\Debug\netcoreapp3.0\Lòng vòng lặp.exe
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\bin\Debug\netcoreapp3.0\Lòng vòng lặp.deps.json
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\bin\Debug\netcoreapp3.0\Lòng vòng lặp.runtimeconfig.json
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\bin\Debug\netcoreapp3.0\Lòng vòng lặp.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\bin\Debug\netcoreapp3.0\Lòng vòng lặp.dll
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\bin\Debug\netcoreapp3.0\Lòng vòng lặp.pdb
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\obj\Debug\netcoreapp3.0\Lòng vòng lặp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\obj\Debug\netcoreapp3.0\Lòng vòng lặp.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\obj\Debug\netcoreapp3.0\Lòng vòng lặp.dll
+C:\Users\USER\source\repos\Lòng vòng lặp\Lòng vòng lặp\obj\Debug\netcoreapp3.0\Lòng vòng lặp.pdb

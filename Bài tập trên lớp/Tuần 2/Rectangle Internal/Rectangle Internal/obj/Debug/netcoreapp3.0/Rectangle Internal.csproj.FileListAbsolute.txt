@@ -1,0 +1,11 @@
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\bin\Debug\netcoreapp3.0\Rectangle Internal.exe
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\bin\Debug\netcoreapp3.0\Rectangle Internal.deps.json
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\bin\Debug\netcoreapp3.0\Rectangle Internal.runtimeconfig.json
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\bin\Debug\netcoreapp3.0\Rectangle Internal.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\bin\Debug\netcoreapp3.0\Rectangle Internal.dll
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\bin\Debug\netcoreapp3.0\Rectangle Internal.pdb
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\obj\Debug\netcoreapp3.0\Rectangle Internal.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\obj\Debug\netcoreapp3.0\Rectangle Internal.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\obj\Debug\netcoreapp3.0\Rectangle Internal.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\obj\Debug\netcoreapp3.0\Rectangle Internal.dll
+E:\Lập trình Winform\Bài tập\Rectangle Internal\Rectangle Internal\obj\Debug\netcoreapp3.0\Rectangle Internal.pdb

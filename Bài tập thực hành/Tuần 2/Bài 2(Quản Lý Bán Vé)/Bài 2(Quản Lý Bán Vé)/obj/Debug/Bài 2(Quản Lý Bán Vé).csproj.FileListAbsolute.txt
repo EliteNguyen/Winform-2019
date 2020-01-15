@@ -1,0 +1,9 @@
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\bin\Debug\Bài 2(Quản Lý Bán Vé).exe.config
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\bin\Debug\Bài 2(Quản Lý Bán Vé).exe
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\bin\Debug\Bài 2(Quản Lý Bán Vé).pdb
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\obj\Debug\Bài 2(Quản Lý Bán Vé).csprojResolveAssemblyReference.cache
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\obj\Debug\Bài_2_Quản_Lý_Bán_Vé_.QuanLyBanVe.resources
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\obj\Debug\Bài_2_Quản_Lý_Bán_Vé_.Properties.Resources.resources
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\obj\Debug\Bài 2(Quản Lý Bán Vé).csproj.GenerateResource.Cache
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\obj\Debug\Bài 2(Quản Lý Bán Vé).exe
+D:\Tuần 2\Bài 2(Quản Lý Bán Vé)\Bài 2(Quản Lý Bán Vé)\obj\Debug\Bài 2(Quản Lý Bán Vé).pdb

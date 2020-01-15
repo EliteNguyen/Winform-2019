@@ -1,0 +1,12 @@
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\bin\Debug\Quản Lý.exe.config
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\bin\Debug\Quản Lý.exe
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\bin\Debug\Quản Lý.pdb
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản Lý.csprojAssemblyReference.cache
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản_Lý.FormQuanLy.resources
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản_Lý.FormLoaiThucAn.resources
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản_Lý.Properties.Resources.resources
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản Lý.csproj.GenerateResource.cache
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản Lý.exe
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản Lý.pdb
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản_Lý.FormThucAn.resources
+E:\Lập trình Winform\Đồ án\Quản Lý\Quản Lý\obj\Debug\Quản_Lý.FormNhaCungCap.resources

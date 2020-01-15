@@ -1,0 +1,18 @@
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\bin\Debug\FastFoodStore.exe.config
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\bin\Debug\FastFoodStore.exe
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\bin\Debug\FastFoodStore.pdb
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.csprojAssemblyReference.cache
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.FormQuanLyThucAn.resources
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.Properties.Resources.resources
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.csproj.GenerateResource.cache
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.exe
+E:\Lập trình Winform\Đồ án\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.pdb
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\bin\Debug\FastFoodStore.exe.config
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\bin\Debug\FastFoodStore.exe
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\bin\Debug\FastFoodStore.pdb
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.FormQuanLyThucAn.resources
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.Properties.Resources.resources
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.exe
+C:\Users\USER\Desktop\FastFoodStore\FastFoodStore\obj\Debug\FastFoodStore.pdb

@@ -1,0 +1,6 @@
+D:\Bài tập thực hành Winform\Bài 1b\Bài 1b\bin\Debug\Bài 1b.exe.config
+D:\Bài tập thực hành Winform\Bài 1b\Bài 1b\bin\Debug\Bài 1b.exe
+D:\Bài tập thực hành Winform\Bài 1b\Bài 1b\bin\Debug\Bài 1b.pdb
+D:\Bài tập thực hành Winform\Bài 1b\Bài 1b\obj\Debug\Bài 1b.csprojResolveAssemblyReference.cache
+D:\Bài tập thực hành Winform\Bài 1b\Bài 1b\obj\Debug\Bài 1b.exe
+D:\Bài tập thực hành Winform\Bài 1b\Bài 1b\obj\Debug\Bài 1b.pdb

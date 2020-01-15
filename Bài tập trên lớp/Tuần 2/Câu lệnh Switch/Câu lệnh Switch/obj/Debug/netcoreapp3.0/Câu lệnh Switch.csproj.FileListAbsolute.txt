@@ -1,0 +1,21 @@
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.exe
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.deps.json
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.runtimeconfig.json
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.dll
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.pdb
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.dll
+E:\Lập trình Winform\Bài tập\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.deps.json
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.runtimeconfig.json
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.dll
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\bin\Debug\netcoreapp3.0\Câu lệnh Switch.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.dll
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 1\Câu lệnh Switch\Câu lệnh Switch\obj\Debug\netcoreapp3.0\Câu lệnh Switch.pdb

@@ -1,0 +1,18 @@
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\bin\Debug\Ban Quản Lý.exe.config
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\bin\Debug\Ban Quản Lý.exe
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\bin\Debug\Ban Quản Lý.pdb
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban Quản Lý.csprojAssemblyReference.cache
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.BanQuanLy.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.Properties.Resources.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban Quản Lý.csproj.GenerateResource.cache
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban Quản Lý.exe
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban Quản Lý.pdb
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.QuanLyNhanVien.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.QuanLyThongTinKhachHang.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.BaoCaoThongKe.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.TinhTrangSoLuongVe.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.TinhTrangPhim.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.DSTTNV.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.LapBaoCao.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.SapXepDeLapBaoCao.resources
+E:\Lập trình Winform\Đồ án\Ban Quản Lý\Ban Quản Lý\obj\Debug\Ban_Quản_Lý.QuangCaoLichChieuPhim.resources

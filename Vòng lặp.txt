@@ -1,0 +1,2 @@
+Dùng for khi biết chính xác số lượng vòng lặp
+Dùng While ngược lại

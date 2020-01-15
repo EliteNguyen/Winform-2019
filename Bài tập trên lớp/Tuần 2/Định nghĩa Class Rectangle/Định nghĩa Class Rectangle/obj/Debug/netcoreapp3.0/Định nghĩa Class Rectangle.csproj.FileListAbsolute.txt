@@ -1,0 +1,11 @@
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\bin\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.exe
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\bin\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.deps.json
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\bin\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.runtimeconfig.json
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\bin\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\bin\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.dll
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\bin\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.pdb
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\obj\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\obj\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\obj\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\obj\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.dll
+E:\Lập trình Winform\Bài tập\Định nghĩa Class Rectangle\Định nghĩa Class Rectangle\obj\Debug\netcoreapp3.0\Định nghĩa Class Rectangle.pdb

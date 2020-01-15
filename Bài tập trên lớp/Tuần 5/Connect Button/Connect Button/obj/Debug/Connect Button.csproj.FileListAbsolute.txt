@@ -1,0 +1,9 @@
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\bin\Debug\Connect Button.exe.config
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\bin\Debug\Connect Button.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\bin\Debug\Connect Button.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\obj\Debug\Connect Button.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\obj\Debug\Connect_Button.ConnectButton.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\obj\Debug\Connect_Button.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\obj\Debug\Connect Button.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\obj\Debug\Connect Button.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 5\Connect Button\Connect Button\obj\Debug\Connect Button.pdb

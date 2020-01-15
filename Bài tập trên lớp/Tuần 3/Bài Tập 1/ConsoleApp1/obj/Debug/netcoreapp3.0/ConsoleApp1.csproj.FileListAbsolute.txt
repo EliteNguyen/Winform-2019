@@ -1,0 +1,11 @@
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+E:\Lập trình Winform\Bài tập\Bài Tập 1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

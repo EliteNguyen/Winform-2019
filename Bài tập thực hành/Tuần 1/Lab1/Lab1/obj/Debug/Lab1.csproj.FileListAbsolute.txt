@@ -1,0 +1,6 @@
+D:\Bài tập thực hành Winform\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Bài tập thực hành Winform\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Bài tập thực hành Winform\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Bài tập thực hành Winform\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Bài tập thực hành Winform\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Bài tập thực hành Winform\Lab1\Lab1\obj\Debug\Lab1.pdb

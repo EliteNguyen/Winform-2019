@@ -1,0 +1,11 @@
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\bin\Debug\ReportViewer.exe.config
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\bin\Debug\ReportViewer.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\bin\Debug\ReportViewer.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\ReportViewer.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\ReportViewer.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\ReportViewer.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\RdlCompile.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\RdlCompile.compiled
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\ReportViewer.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\ReportViewer.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 6\ReportViewer\ReportViewer\obj\Debug\ReportViewer.Form1.resources

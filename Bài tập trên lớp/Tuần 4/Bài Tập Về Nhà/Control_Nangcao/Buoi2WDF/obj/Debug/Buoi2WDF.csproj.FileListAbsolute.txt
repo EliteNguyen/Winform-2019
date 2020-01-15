@@ -1,0 +1,19 @@
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\bin\Debug\Buoi2WDF.exe.config
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\bin\Debug\Buoi2WDF.exe
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\bin\Debug\Buoi2WDF.pdb
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\obj\Debug\Buoi2WDF.csprojAssemblyReference.cache
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\obj\Debug\Buoi2WDF.Form1.resources
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\obj\Debug\Buoi2WDF.Properties.Resources.resources
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\obj\Debug\Buoi2WDF.csproj.GenerateResource.cache
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\obj\Debug\Buoi2WDF.csproj.CoreCompileInputs.cache
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\obj\Debug\Buoi2WDF.exe
+D:\Baitap lap trinh window\Buoi2WDF\Buoi2WDF\obj\Debug\Buoi2WDF.pdb
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\bin\Debug\Buoi2WDF.exe.config
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\bin\Debug\Buoi2WDF.exe
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\bin\Debug\Buoi2WDF.pdb
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\obj\Debug\Buoi2WDF.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\obj\Debug\Buoi2WDF.Form1.resources
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\obj\Debug\Buoi2WDF.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\obj\Debug\Buoi2WDF.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\obj\Debug\Buoi2WDF.exe
+C:\Users\ASUS\Downloads\Nhom4_Buoi3\Control_Nangcao\Buoi2WDF\obj\Debug\Buoi2WDF.pdb

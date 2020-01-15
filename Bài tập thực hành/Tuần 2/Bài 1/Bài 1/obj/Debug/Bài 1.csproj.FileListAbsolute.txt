@@ -1,0 +1,21 @@
+D:\Tuần 2\Bài 1\Bài 1\bin\Debug\Bài 1.exe.config
+D:\Tuần 2\Bài 1\Bài 1\bin\Debug\Bài 1.exe
+D:\Tuần 2\Bài 1\Bài 1\bin\Debug\Bài 1.pdb
+D:\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.csprojResolveAssemblyReference.cache
+D:\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài_1.Form1.resources
+D:\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài_1.Properties.Resources.resources
+D:\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.csproj.GenerateResource.Cache
+D:\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.exe
+D:\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.pdb
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\bin\Debug\Form1.resx
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\bin\Debug\Form1.cs
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\bin\Debug\Form1.Designer.cs
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\bin\Debug\Bài 1.exe.config
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\bin\Debug\Bài 1.exe
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\bin\Debug\Bài 1.pdb
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài_1.Lab0201.resources
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài_1.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.exe
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Bài 1\Bài 1\obj\Debug\Bài 1.pdb

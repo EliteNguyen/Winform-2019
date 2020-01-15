@@ -1,0 +1,9 @@
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\bin\Debug\List view 1.exe.config
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\bin\Debug\List view 1.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\bin\Debug\List view 1.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\obj\Debug\List_view_1.Form1.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\obj\Debug\List_view_1.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\obj\Debug\List view 1.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\obj\Debug\List view 1.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\obj\Debug\List view 1.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\List view 1\List view 1\obj\Debug\List view 1.csprojAssemblyReference.cache

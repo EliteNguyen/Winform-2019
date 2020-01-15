@@ -1,0 +1,10 @@
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\bin\Debug\netcoreapp3.0\Lồng lệnh If.exe
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\bin\Debug\netcoreapp3.0\Lồng lệnh If.deps.json
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\bin\Debug\netcoreapp3.0\Lồng lệnh If.runtimeconfig.json
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\bin\Debug\netcoreapp3.0\Lồng lệnh If.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\bin\Debug\netcoreapp3.0\Lồng lệnh If.dll
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\bin\Debug\netcoreapp3.0\Lồng lệnh If.pdb
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\obj\Debug\netcoreapp3.0\Lồng lệnh If.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\obj\Debug\netcoreapp3.0\Lồng lệnh If.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\obj\Debug\netcoreapp3.0\Lồng lệnh If.dll
+E:\Lập trình Winform\Bài tập\Lồng lệnh If\Lồng lệnh If\obj\Debug\netcoreapp3.0\Lồng lệnh If.pdb

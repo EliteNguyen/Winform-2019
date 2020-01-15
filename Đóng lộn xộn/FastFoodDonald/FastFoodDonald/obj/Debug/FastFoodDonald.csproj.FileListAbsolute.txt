@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\bin\Debug\FastFoodDonald.exe.config
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\bin\Debug\FastFoodDonald.exe
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\bin\Debug\FastFoodDonald.pdb
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\obj\Debug\FastFoodDonald.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\obj\Debug\FastFoodDonald.FormQuanLyThucAn.resources
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\obj\Debug\FastFoodDonald.Properties.Resources.resources
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\obj\Debug\FastFoodDonald.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\obj\Debug\FastFoodDonald.exe
+C:\Users\USER\Desktop\FastFoodDonald\FastFoodDonald\obj\Debug\FastFoodDonald.pdb

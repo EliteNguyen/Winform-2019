@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lòng vòng lặp/1.0.0": {
+        "runtime": {
+          "Lòng vòng lặp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lòng vòng lặp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

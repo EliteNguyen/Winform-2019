@@ -1,0 +1,31 @@
+Form: 1 class - đối tượng, property - event có sẵn, hàm có sẵn - tự viết
+Dấu cờ lê: thuộc tính
+Dấu sấm sét: event , dc kích hoạt mổi khi tới event
+Hàm: cái hộp
+This: thể hiện của class mà bạn đang code
+
+1 số thuộc tính cơ bản:
+
+Name: tên biến của class form hoặc class control
+Accept Button: chọn nút, khi mà nhấn enter sẽ bay vào nút đó.
+Allow drop: chấp nhận user nắm kéo thả cái gì đó (đối vs form) - ít xài
+Auto Scale mode: cho phép các control thay đổi kích thước của mình phù hợp vs độ phân giải của form.
+Auto scroll: crollbar tự xuất hiện khi mà nội dung trong form của bạn nhiều.
+Auto size: tự động fit size để vừa vs content mà nó chứa bên trong - dành cho các control
+Auto validate: cập nhật thông tin thuộc tính data mỗi khi có sự thay đổi.
+Back color: màu nền cho form
+Background Image: ảnh nền cho form 
+Background Image layout: thay đổi ảnh nền vừa vs kích thước form. Nên chọn Zoom
+Cancel button: chọn nút r nhấn escape , nó sẽ chạy vào button đó.
+Context Menu Strip: click phải vào form nó sẽ ra menu.
+Control Box: hiện hoặc ẩn, Tạm ẩn - Phóng to thu nhỏ - Thoát.
+Cursor: con chuột rê vô form thành cái khác.
+Font: thay đổi nội dung các control cùng 1 lúc theo font.
+Fore Color: màu nội dung cho mọi control.
+Form Border Style: Điều chỉnh kích thước form.
+Icon: đổi icon góc trái của form.
+Main menu strip: cái menu nằm góc trái của form.
+Opacity: độ mờ của form.
+Use Wait Cusor: con chuột khi đợi loading.
+ 
+ 

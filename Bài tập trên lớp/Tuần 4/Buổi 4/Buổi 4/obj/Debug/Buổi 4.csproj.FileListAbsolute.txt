@@ -1,0 +1,9 @@
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\bin\Debug\Buổi 4.exe.config
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\bin\Debug\Buổi 4.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\bin\Debug\Buổi 4.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\obj\Debug\Buổi 4.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\obj\Debug\Buổi_4.Form1.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\obj\Debug\Buổi_4.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\obj\Debug\Buổi 4.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\obj\Debug\Buổi 4.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\Buổi 4\Buổi 4\obj\Debug\Buổi 4.pdb

@@ -1,0 +1,9 @@
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\obj\Debug\PictureBox.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+E:\Lập trình Winform\Bài tập trên lớp\Tuần 4\PictureBox\PictureBox\obj\Debug\PictureBox.pdb

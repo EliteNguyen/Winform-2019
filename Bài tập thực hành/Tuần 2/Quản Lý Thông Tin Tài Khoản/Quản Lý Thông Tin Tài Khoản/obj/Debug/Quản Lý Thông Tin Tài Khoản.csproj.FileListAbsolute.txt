@@ -1,0 +1,9 @@
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\bin\Debug\Quản Lý Thông Tin Tài Khoản.exe.config
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\bin\Debug\Quản Lý Thông Tin Tài Khoản.exe
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\bin\Debug\Quản Lý Thông Tin Tài Khoản.pdb
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\obj\Debug\Quản Lý Thông Tin Tài Khoản.csprojAssemblyReference.cache
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\obj\Debug\Quản_Lý_Thông_Tin_Tài_Khoản.QuanLyThongTinTaiKhoan.resources
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\obj\Debug\Quản_Lý_Thông_Tin_Tài_Khoản.Properties.Resources.resources
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\obj\Debug\Quản Lý Thông Tin Tài Khoản.csproj.GenerateResource.cache
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\obj\Debug\Quản Lý Thông Tin Tài Khoản.exe
+E:\Lập trình Winform\Bài tập thực hành\Tuần 2\Quản Lý Thông Tin Tài Khoản\Quản Lý Thông Tin Tài Khoản\obj\Debug\Quản Lý Thông Tin Tài Khoản.pdb

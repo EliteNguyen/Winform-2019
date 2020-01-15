@@ -1,0 +1,10 @@
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\bin\Debug\netcoreapp3.0\Lồng lệnh Switch.exe
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\bin\Debug\netcoreapp3.0\Lồng lệnh Switch.deps.json
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\bin\Debug\netcoreapp3.0\Lồng lệnh Switch.runtimeconfig.json
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\bin\Debug\netcoreapp3.0\Lồng lệnh Switch.runtimeconfig.dev.json
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\bin\Debug\netcoreapp3.0\Lồng lệnh Switch.dll
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\bin\Debug\netcoreapp3.0\Lồng lệnh Switch.pdb
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\obj\Debug\netcoreapp3.0\Lồng lệnh Switch.AssemblyInfoInputs.cache
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\obj\Debug\netcoreapp3.0\Lồng lệnh Switch.AssemblyInfo.cs
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\obj\Debug\netcoreapp3.0\Lồng lệnh Switch.dll
+E:\Lập trình Winform\Bài tập\Lồng lệnh Switch\Lồng lệnh Switch\obj\Debug\netcoreapp3.0\Lồng lệnh Switch.pdb
